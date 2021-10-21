@@ -1,0 +1,2 @@
+greenery>=3
+nltk>=3
